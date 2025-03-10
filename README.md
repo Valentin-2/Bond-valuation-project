@@ -31,7 +31,7 @@ Run the script by simply executing `python bond_valuation.py`
 
 The application provides input fields for:
 
-- Bond currency ($, €, £)
+- Bond currency ($, €, £) as a dropdown list
 - Coupon payment per period
 - Discount rate (%)
 - Face value of the bond
