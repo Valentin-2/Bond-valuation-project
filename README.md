@@ -1,7 +1,8 @@
 # 📈 Bond-valuation-project 
 
 ### Abstract
-This Python project provides a Graphical User Interface (GUI) for bond valuation using the `tkinter` library. Users can input bond parameters such as coupon payments, discount rate, face value, and the number of years to calculate the bond's present value.
+This Python project provides a **Graphical User Interface (GUI)** for bond valuation using the `tkinter` library. Users can input bond parameters such as **coupon payments, discount rate, face value, and the number of years** to calculate the bond's present value. The application supports **multiple currencies ($, €, £)** and offers an option for **bi-annual coupon payments**. The results update dynamically based on user inputs.
+
 
 ### 🚀 Features 
 
@@ -40,4 +41,4 @@ The application provides input fields for:
 
 ### ⚙️ How It Works
 
-The program simply uses the discounting formula based on the information entered by the user
+The program uses the discounting formula based on the information entered by the user
